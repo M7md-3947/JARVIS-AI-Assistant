@@ -178,7 +178,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@M7md-3947](https://github.com/M7md-3947)
 
 ---
 
