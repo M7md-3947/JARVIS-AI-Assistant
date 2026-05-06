@@ -24,7 +24,7 @@ import time
 # ─────────────────────────────────────────
 #  CONFIGURATION  ← Edit this section
 # ─────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSyChkd6WAa4dNG_B0S9vQVBvMKu119c56rA"   # ← Paste your key here
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"   # ← Paste your key here
 JARVIS_NAME    = "Jarvis"
 WAKE_WORD      = "jarvis"                      # Say this word to wake Jarvis
 INPUT_MODE     = "both"                        # "voice", "text", or "both"
